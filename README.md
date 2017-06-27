@@ -1,3 +1,3 @@
 #  grill
 
-![bild](/blob/master/grill_masse_7.png)
+![bild](grill_masse_7.png)
